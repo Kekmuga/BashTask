@@ -1,0 +1,11 @@
+Report abour LOGs of a web-server
+=================================
+amount of requests: 6
+
+amount of uniq ip: 4
+
+uniq methods:
+1 POST
+5 GET
+
+most popular adress: 3 /index.html
